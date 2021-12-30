@@ -1,0 +1,58 @@
+.book-area{
+    
+    height: 450px;
+    margin-top: 30px;
+    background-image: linear-gradient(
+      to right,
+      rgba(75, 64, 146, 0.849),
+      rgba(75, 64, 146, 0.849)
+    ),
+    url(https://i.ibb.co/g3ytnpm/lauren-mancke-a-OC7-TSLb1o8-unsplash.jpg);
+    background-size: cover;
+    min-height: 150vh;
+}
+
+.booking-text{
+    color: whitesmoke;
+  
+    padding: 100px;
+    font-size: 80px;
+     }
+     .booking{
+         color: whitesmoke;
+         margin-top: 60px;
+
+     }
+     .booking-form{
+        flex: 0 0 60%;
+        padding: 0 8%;
+     }
+     .booking-form form{
+  display: block;
+  margin: 0 auto;
+}
+ 
+.booking-form input
+{
+  display: block;
+  border: 1px solid #e7e7e7e7;
+  padding: 10px 12px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+  font-size: 18px;
+  width: 100%;
+  color: #030303;
+}
+
+.btn-book{
+    background-color: rgb(205, 195, 50);
+ color:rgb(17, 13, 12) !important;
+  border: none;
+  border-radius: 4px;
+  width: 150px !important;
+  padding: 0.4rem 1.2rem;
+  font-weight: 800;
+  font-style: italic;
+
+  
+}

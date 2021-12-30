@@ -1,0 +1,19 @@
+.footer-social-link {
+    text-decoration: none;
+    color: #3c4a49;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: #e7e7e7e7;
+    font-size: 22px;
+  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+    transition: all 0.2s;
+  }
+  .footer-social-link:hover {
+    background-color: #3c4a49;
+    color: #fff;
+  }
